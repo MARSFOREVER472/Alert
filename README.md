@@ -2,4 +2,4 @@
 
 ## _Mensaje de alerta/aviso Jquery_
 
-### Cómo crear y/o agregar una Barra de Notificación utilizando la función JQUERY
+### _Cómo crear y/o agregar una Barra de Notificación utilizando la función JQUERY_
