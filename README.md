@@ -4,4 +4,4 @@
 
 ### **_Cómo crear y/o agregar una Barra de Notificación utilizando la función JQUERY:_**
 
-- Cómo crear mensajes de alerta 
+- _Cómo crear mensajes de alerta_
