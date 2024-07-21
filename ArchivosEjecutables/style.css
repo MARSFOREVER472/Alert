@@ -1,0 +1,55 @@
+/* ESTA ES LA HOJA DE ESTILOS DONDE DEFINIMOS LAS CARACTERÍSTICAS DE NUESTRO ARCHIVO EN FORMATO .CSS*/
+
+#notificacion
+{
+    background-color: #291360;
+    color: white;
+    height: 30px;
+    width: 100%;
+    font-size: 20px;
+    text-align: center;
+    margin: 0 auto;
+    position: absolute;
+    right: 0;
+    left: 0;
+    margin-top: -8px;
+    padding-top: 5px;
+    display: none;
+}
+
+.pedido
+{
+    background-color: #21EC2F;
+    display: inline-block;
+    width: 150px;
+    border-radius: 5px;
+    font-weight: bold;
+    margin-left: 10px;
+    border: 1px solid #fff;
+    padding: 0 5px;
+}
+
+a
+{
+    text-decoration: none;
+    color: white;
+    text-shadow: 1px 1px 1px #000;
+}
+
+.cerrar
+{
+    background-color: #39344A;
+    display: inline-block;
+    width: 100px;
+    border-radius: 5px;
+    position: right;
+    margin-right: 25px;
+    font-weight: bold;
+}
+
+.cerrar:hover
+{
+    background-color: #000B1B;
+    outline: 3px solid #000B1B;
+    outline-offset: 1.2px;
+}
