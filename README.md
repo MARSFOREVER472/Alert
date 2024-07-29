@@ -17,3 +17,5 @@
 - **_Se trata de una barra de notificación situada en la parte superior de nuestra web, que aparece después de unos segundos de haberse cargado la página._**
 
 - **_Es ideal para mostrar mensajes o enlaces a los usuarios que visiten nuestra web...estos tipos de barras de notificación (mensajes de alerta) se utilizan mucho para llamar la atención de los usuarios y tratar de transmitirles un mensaje, una promoción, un enlace, un producto/venta..._**
+
+- En nuestro ejemplo con JQuery, hemos querido hacer con que nuestra barra de notificación apareciera con unos segundos de retraso, después de que se hubiera cargado la página...esa es una técnica efectiva para atraer la atención de los usuarios. 
