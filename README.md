@@ -9,4 +9,5 @@
 - **_Quieres aprender cómo se hace para mostrar un DIV/SPAN después de unos segundos?_**
 
 - **_Tienes curiosidad por aprender a crear tus propios desarrollos y aplicaciones utilizando Jquery?_**
+
 Quieres tener un ejemplo real de desarrollo y programación web utilizando la librería de JavaScript más famosa del mundo?
