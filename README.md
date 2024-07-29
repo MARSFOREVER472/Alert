@@ -5,4 +5,5 @@
 ### **_Cómo crear y/o agregar una Barra de Notificación utilizando la función JQUERY:_**
 
 - **_Cómo crear mensajes de alerta (Mensaje de aviso) utilizando a función JQuery._**
+
 - Quieres aprender cómo se hace para mostrar un DIV/SPAN después de unos segundos?
