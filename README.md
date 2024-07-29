@@ -8,4 +8,4 @@
 
 - **_Quieres aprender cómo se hace para mostrar un DIV/SPAN después de unos segundos?_**
 
-- Tienes curiosidad por aprender a crear tus propios desarrollos y aplicaciones utilizando Jquery?
+- _Tienes curiosidad por aprender a crear tus propios desarrollos y aplicaciones utilizando Jquery?_
