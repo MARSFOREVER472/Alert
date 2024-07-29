@@ -11,4 +11,5 @@
 - **_Tienes curiosidad por aprender a crear tus propios desarrollos y aplicaciones utilizando Jquery?_**
 
 - **_Quieres tener un ejemplo real de desarrollo y programación web utilizando la librería de JavaScript más famosa del mundo?_**
+
 En este proyecto, queremos compartir contigo la manera de crear un mensaje de alerta en nuestra página web, usando JQuery.
