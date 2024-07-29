@@ -15,3 +15,5 @@
 - **_En este proyecto, queremos compartir contigo la forma de crear un mensaje de alerta en nuestra página web, usando JQuery._**
 
 - **_Se trata de una barra de notificación situada en la parte superior de nuestra web, que aparece después de unos segundos de haberse cargado la página._**
+
+- Es ideal para mostrar mensajes o enlaces a los usuarios que visiten nuestra web...estos tipos de barras de notificación (mensajes de alerta) se utilizan mucho para llamar la atención de los usuarios y tratar de transmitirles un mensaje, una promoción, un enlace, un producto/venta...
