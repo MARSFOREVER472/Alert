@@ -13,4 +13,5 @@
 - **_Quieres tener un ejemplo real de desarrollo y programación web utilizando la librería de JavaScript más famosa del mundo?_**
 
 - **_En este proyecto, queremos compartir contigo la forma de crear un mensaje de alerta en nuestra página web, usando JQuery._**
+
 Se trata de una barra de notificación situada en la parte superior de nuestra web, que aparece después de unos segundos de haberse cargado la página.
