@@ -1,11 +1,46 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="es">
+
 <head>
+    <title>Notificación J-Query!!!!!</title>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Document</title>
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.1.1/jquery.min.js"></script>
+    <link rel="stylesheet" type="text/css" href="style.css">
+    <!-- Para usar una fuente de Google Fonts, simplemente copiamos su enlace en el head (2 fuentes: Lobster|Nunito)-->
+    <link href="https://fonts.googleapis.com/css?family=Lobster|Nunito" rel="stylesheet">
+
+    <!-- El código J-Query empieza AQUÍ -->
+    <script type="text/javascript">
+        $(document).ready(function(){
+
+            $("#notificacion").delay(1500).slideDown("slow");
+
+            function cerrarNotificacion () {
+                $("#notificacion").click(function(){
+                    $(this).slideUp("fast");
+                });
+            }
+
+            $(".cerrar").click(cerrarNotificacion);
+
+            setTimeout(function(){
+                $("#notificacion").fadeOut(2000);
+            },7000);
+
+            $(".enlace").click(function(event) {
+                alert("Gracias por visitar a mi canal!!!!!")
+            });
+        });
+    </script>
+      <!-- El código J-Query termina AQUÍ -->
 </head>
 <body>
+    <div id="notificacion">
+        <span>Apoya nuestro canal en Youtube!!!!</span>
+        <span class="pedido"><a class="enlace" href="https://www.youtube.com/@Autinfit" target="_blank">Suscríbete ya! </a></span>
+        <span class="cerrar"><a href="#">Cerrar</a></span>
+    </div>
     
 </body>
 </html>
