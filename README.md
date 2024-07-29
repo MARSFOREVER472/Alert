@@ -20,4 +20,4 @@
 
 - **_En nuestro ejemplo con JQuery, hemos querido hacer con que nuestra barra de notificación apareciera con unos segundos de retraso, después de que se hubiera cargado la página...esa es una técnica efectiva para atraer la atención de los usuarios._**
 
-- En un proyecto te mostramos que webs como udemy.com o themegrill.com usan con bastante frecuencia estos tipos de mensajes de alerta mediante la implementación de una barra de notificaciones en sus respectivas webs.
+- _En un proyecto te mostramos que webs como udemy.com o themegrill.com usan con bastante frecuencia estos tipos de mensajes de alerta mediante la implementación de una barra de notificaciones en sus respectivas webs._
