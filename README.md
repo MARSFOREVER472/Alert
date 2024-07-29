@@ -6,4 +6,4 @@
 
 - **_Cómo crear mensajes de alerta (Mensaje de aviso) utilizando a función JQuery._**
 
-- _Quieres aprender cómo se hace para mostrar un DIV/SPAN después de unos segundos?_
+- **_Quieres aprender cómo se hace para mostrar un DIV/SPAN después de unos segundos?_**
